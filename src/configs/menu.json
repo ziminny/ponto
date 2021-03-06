@@ -1,0 +1,41 @@
+[
+    {
+        "header" : "MINHA CONTA",
+        "main" : [
+          "Detalhes",
+          "Sair"
+        ],
+        "links" : [
+            "detalhes-da-conta",
+            "logout"
+        ]             
+    },
+    {
+        "header" : "USUÁRIOS",
+        "main" : [
+          "Lista de usuários",
+          "Horarios e detalhes"
+
+        ],
+        "links" : [
+            "lista-de-usuarios",
+            "horarios-e-detalhes"
+
+        ]        
+    },
+    {
+        "header" : "GRAFICOS",
+        "links" : [
+            "xxx"
+
+        ]
+    },
+    {
+
+        "header" : "CONFIGURAÇÕES",
+        "links" : [
+            "xxx"
+
+        ]
+    }
+]
